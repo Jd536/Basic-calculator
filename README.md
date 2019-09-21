@@ -1,1 +1,1 @@
-This is an JavaScript app created 
+This is an JavaScript a basic calculatorCreated Using Vanilla JavaScript
